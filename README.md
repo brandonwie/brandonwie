@@ -12,7 +12,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats-brown-tau.vercel.app/api/wakatime?username=brandonwie&hide_border=true&bg_color=#22282D)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML,Scilab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML,Scilab&layout=compact&hide_border=true&bg_color=#22282D)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
