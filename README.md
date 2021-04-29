@@ -14,7 +14,7 @@
 
 <!--END_SECTION:activity-->
 
-[![Anurag's GitHub stats](https://github-readme-stats-alpha-liard.vercel.app
+[![Anurag's GitHub stats](https://github-readme-stats-brandonwie.vercel.app
 /api?username=brandonwie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
