@@ -16,6 +16,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="brandonwie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
