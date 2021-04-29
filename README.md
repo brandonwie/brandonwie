@@ -8,11 +8,11 @@
 - 🎯 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play PC 🎮 games️ \& ⛹️‍♂️ basketball
 
-[![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats-brown-tau.vercel.app/api/wakatime?username=brandonwie&hide_border=true&bg_color=#22282D)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-brown-tau.vercel.app/api/wakatime?username=brandonwie&hide_border=true&bg_color=22282D)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML,Scilab&layout=compact&hide_border=true&bg_color=#22282D)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML,Scilab&layout=compact&hide_border=true&bg_color=22282D)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
