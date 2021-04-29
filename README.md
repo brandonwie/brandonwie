@@ -16,7 +16,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
