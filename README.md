@@ -1,6 +1,24 @@
-## Hi there, I'm Seokhyun Wie - aka Brandon 👋
+## Hi there, I'm Seokhyun Wie - aka Brandon <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-## I'm a Husband, Father and Developer!!
+### things I code with:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px">
+
+<br />
+
+### thing I am learning:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="30px">
+
+<br />
 
 - ☕ I'm working on Next.js + Nest.js full-stack web app
 - ✏️ I’m currently learning Next.js with TypeScript
@@ -10,9 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats-brown-tau.vercel.app/api/wakatime?username=brandonwie&title_color=ffc857&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-brown-tau.vercel.app/api/top-langs/?username=brandonwie&hide=MATLAB,Hack,CSS,HTML,Scilab&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 ### Connect with me:
 
@@ -22,75 +38,9 @@
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Nest.js" width="26px" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.svg" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Sequelize" width="26px" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
-<img align="left" alt="PostgresSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<br />
-<br />
-
 ## ⚡ My Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-🌆 Daytime    129 commits    █████████░░░░░░░░░░░░░░░░   36.96% 
-🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   38.68% 
-🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.76%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-Markdown                 36 mins             ████████████████░░░░░░░░░   65.72% 
-YAML                     18 mins             ████████░░░░░░░░░░░░░░░░░   34.16% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-brandonwie               55 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   45.76% 
-HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-Pug                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent GitHub Activity
