@@ -22,6 +22,9 @@
 
 [<img align="left" alt="brandonwie | YouTube" width="40px" src="https://iconape.com/wp-content/png_logo_vector/youtube-social-white-squircle.png" />][youtube] [<img align="left" alt="brandonwie | Twitter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter] [<img align="left" alt="brandonwie | LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
+<br />
+<br />
+
 ### ⚡ My Activity
 
 <!--START_SECTION:waka-->
