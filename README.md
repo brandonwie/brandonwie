@@ -33,6 +33,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/brandonwie/nextjs-typescript-event-app/pull/1) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
+2. 💪 Opened PR [#1](https://github.com/brandonwie/nextjs-typescript-event-app/pull/1) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
