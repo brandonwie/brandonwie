@@ -78,8 +78,8 @@ Pug                      1 repo              ░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brandonwie/nextjs-typescript-event-app/pull/2) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
-2. 🗣 Commented on [#2](https://github.com/brandonwie/nextjs-typescript-event-app/issues/2) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
+1. 🎉 Merged PR [#2](https://github.com/brandonwie/treehouse-fullstack-7-react-gallery-app/pull/2) in [brandonwie/treehouse-fullstack-7-react-gallery-app](https://github.com/brandonwie/treehouse-fullstack-7-react-gallery-app)
+2. 🎉 Merged PR [#3](https://github.com/brandonwie/FS_nodejs_express_pug/pull/3) in [brandonwie/FS_nodejs_express_pug](https://github.com/brandonwie/FS_nodejs_express_pug)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
