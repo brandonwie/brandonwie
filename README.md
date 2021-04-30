@@ -14,22 +14,20 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40px">
 
+<!-- GitHub Stats -->
+
 [![Anurag's GitHub stats](https://github-readme-stats-brown-tau.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### contact me:
 
-[<img align="left" alt="brandonwie | YouTube" width="40px" src="https://iconape.com/wp-content/png_logo_vector/youtube-social-white-squircle.png" />][youtube]
-[<img align="left" alt="brandonwie | Twitter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="brandonwie | LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="brandonwie | YouTube" width="40px" src="https://iconape.com/wp-content/png_logo_vector/youtube-social-white-squircle.png" />][youtube] [<img align="left" alt="brandonwie | Twitter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter] [<img align="left" alt="brandonwie | LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
-
-## ⚡ My Activity
+### ⚡ My Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## ⚡ Recent GitHub Activity
+### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
