@@ -78,8 +78,8 @@ Pug                      1 repo              ░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brandonwie/nextjs-typescript-event-app/pull/1) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
-2. 💪 Opened PR [#1](https://github.com/brandonwie/nextjs-typescript-event-app/pull/1) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
+1. 🎉 Merged PR [#2](https://github.com/brandonwie/nextjs-typescript-event-app/pull/2) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
+2. 🗣 Commented on [#2](https://github.com/brandonwie/nextjs-typescript-event-app/issues/2) in [brandonwie/nextjs-typescript-event-app](https://github.com/brandonwie/nextjs-typescript-event-app)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
