@@ -78,8 +78,8 @@ Pug                      1 repo              ░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/brandonwie/treehouse-10-react-rest-api/pull/4) in [brandonwie/treehouse-10-react-rest-api](https://github.com/brandonwie/treehouse-10-react-rest-api)
-2. 🎉 Merged PR [#2](https://github.com/brandonwie/treehouse-10-react-rest-api/pull/2) in [brandonwie/treehouse-10-react-rest-api](https://github.com/brandonwie/treehouse-10-react-rest-api)
+1. 🎉 Merged PR [#3](https://github.com/brandonwie/FS_proj08_SQL_Library_Manager/pull/3) in [brandonwie/FS_proj08_SQL_Library_Manager](https://github.com/brandonwie/FS_proj08_SQL_Library_Manager)
+2. 🎉 Merged PR [#2](https://github.com/brandonwie/FS_proj08_SQL_Library_Manager/pull/2) in [brandonwie/FS_proj08_SQL_Library_Manager](https://github.com/brandonwie/FS_proj08_SQL_Library_Manager)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
