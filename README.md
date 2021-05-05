@@ -85,7 +85,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#218](https://github.com/bradtraversy/devconnector_2.0/issues/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-2. 💪 Opened PR [#218](https://github.com/bradtraversy/devconnector_2.0/pull/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+2. 🗣 Commented on [#218](https://github.com/bradtraversy/devconnector_2.0/issues/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
