@@ -84,8 +84,8 @@ Pug                      1 repo              ░░░░░░░░░░░�
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/brandonwie/treehouse-10-react-rest-api/pull/6) in [brandonwie/treehouse-10-react-rest-api](https://github.com/brandonwie/treehouse-10-react-rest-api)
-2. 💪 Opened PR [#6](https://github.com/brandonwie/treehouse-10-react-rest-api/pull/6) in [brandonwie/treehouse-10-react-rest-api](https://github.com/brandonwie/treehouse-10-react-rest-api)
+1. 🗣 Commented on [#218](https://github.com/bradtraversy/devconnector_2.0/issues/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+2. 💪 Opened PR [#218](https://github.com/bradtraversy/devconnector_2.0/pull/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
