@@ -82,8 +82,8 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 ### ⚡ Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
 [linkedin]: https://linkedin.com/in/brandonwie
