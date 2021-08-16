@@ -8,14 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Get recent activities in gh
 
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: brandonwie/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
-        with:
-          TIMEZONE_OFFSET: '+9:00'
-          DATE_STRING: 'LAST update: `{DATE}`'
-          DATE_FORMAT: 'dd.mm.yyyy HH:MM'
