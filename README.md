@@ -8,7 +8,7 @@
 
 ### things I code with...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px">
 
 ### thing I am learning...
 
@@ -28,62 +28,61 @@
 ### ⚡ My Activity
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
-🌆 Daytime    168 commits    ████████░░░░░░░░░░░░░░░░░   35.15% 
-🌃 Evening    195 commits    ██████████░░░░░░░░░░░░░░░   40.79% 
+🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
+🌆 Daytime    168 commits    ████████░░░░░░░░░░░░░░░░░   35.15%
+🌃 Evening    195 commits    ██████████░░░░░░░░░░░░░░░   40.79%
 🌙 Night      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-JavaScript               20 hrs 53 mins      ███████████████████░░░░░░   76.13% 
-SCSS                     6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   22.95% 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+💬 Programming Languages:
+JavaScript               20 hrs 53 mins      ███████████████████░░░░░░   76.13%
+SCSS                     6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   22.95%
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  27 hrs 26 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-aiffel_front_aws         27 hrs 12 mins      ████████████████████████░   99.1% 
-brandonwie               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+🐱‍💻 Projects:
+aiffel_front_aws         27 hrs 12 mins      ████████████████████████░   99.1%
+brandonwie               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
 Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      27 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               28 repos            ███████████░░░░░░░░░░░░░░   43.75% 
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-CSS                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               28 repos            ███████████░░░░░░░░░░░░░░   43.75%
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75%
+HTML                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19%
+CSS                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 Pug                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 ```
 
-
-
 <!--END_SECTION:waka-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/brandonwie/dev-connector/pull/7) in [brandonwie/dev-connector](https://github.com/brandonwie/dev-connector)
-2. 🗣 Commented on [#218](https://github.com/bradtraversy/devconnector_2.0/issues/218) in [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
 <!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
