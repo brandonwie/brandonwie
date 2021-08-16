@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@v2.0.0
+      - uses: brandonwie/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
         with:
