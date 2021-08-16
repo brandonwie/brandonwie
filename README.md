@@ -28,17 +28,14 @@
 ### ⚡ My Activity
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
