@@ -1,7 +1,7 @@
 ## Hi there, I'm Seokhyun Wie - aka Brandon <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 - ☕ A _**front-end web developer**_ at _**Modulabs AIFFEL**_ working on _**LMS**_(Learning Management System).
-- 🔄 Mainly code with _**JavaScipt**_ and _**React**_ under an _**AGILE**_ environment.
+- 🔄 Mainly code with _**JavaScript**_ and _**React**_ under an _**AGILE**_ environment.
 - ✏️ Learning _**React Testing Library**_ and _**Cypress**_ for _**TDD**_ (Test Driven Development).
 - 🎯 2021 Goals: master testing libraries, learn deeper about _**CI/CD**_, get at least 1 AWS certificate.
 - ⚡ Fun fact: love to play PC 🎮 games️ \& ⛹️‍♂️ basketball
