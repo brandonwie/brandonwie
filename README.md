@@ -81,17 +81,17 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 28th, 2021, 9:15:59 AM
+Last Updated: Tuesday, December 28th, 2021, 10:17:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
-2. ⭐ Starred [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
-3. ⭐ Starred [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-4. ⭐ Starred [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
-5. 📔 Created new repository [brandonwie/sundaes-on-demand](https://github.com/brandonwie/sundaes-on-demand)
+1. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
+2. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
+3. ⭐ Starred [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
+4. ⭐ Starred [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+5. ⭐ Starred [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
