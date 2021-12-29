@@ -82,17 +82,17 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 29th, 2021, 8:19:09 AM
+Last Updated: Wednesday, December 29th, 2021, 9:16:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
-2. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
-3. ⭐ Starred [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
-4. ⭐ Starred [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-5. ⭐ Starred [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
+1. 📔 Created new repository [brandonwie/leetcode](https://github.com/brandonwie/leetcode)
+2. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
+3. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
+4. ⭐ Starred [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
+5. ⭐ Starred [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
