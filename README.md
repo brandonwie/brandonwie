@@ -81,17 +81,17 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 6th, 2022, 6:19:03 PM
+Last Updated: Thursday, January 6th, 2022, 7:13:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#140195](https://github.com/microsoft/vscode/issues/140195) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 📔 Created new repository [brandonwie/leetcode](https://github.com/brandonwie/leetcode)
-3. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
-4. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
-5. ⭐ Starred [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
+1. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+2. ❗️ Opened issue [#140195](https://github.com/microsoft/vscode/issues/140195) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 📔 Created new repository [brandonwie/leetcode](https://github.com/brandonwie/leetcode)
+4. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
+5. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
