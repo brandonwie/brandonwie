@@ -81,17 +81,17 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 9th, 2022, 6:18:20 PM
+Last Updated: Sunday, January 9th, 2022, 7:12:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
-2. ❗️ Opened issue [#140195](https://github.com/microsoft/vscode/issues/140195) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 📔 Created new repository [brandonwie/leetcode](https://github.com/brandonwie/leetcode)
-4. 📔 Created new repository [brandonwie/leetcode-practices](https://github.com/brandonwie/leetcode-practices)
-5. ⭐ Starred [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
+1. ⭐ Starred [reactwg/react-native-releases](https://github.com/reactwg/react-native-releases)
+2. ⭐ Starred [reactwg/react-18](https://github.com/reactwg/react-18)
+3. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+4. ❗️ Opened issue [#140195](https://github.com/microsoft/vscode/issues/140195) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 📔 Created new repository [brandonwie/leetcode](https://github.com/brandonwie/leetcode)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
