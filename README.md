@@ -82,17 +82,17 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 21st, 2022, 7:14:24 AM
+Last Updated: Friday, January 21st, 2022, 8:17:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 📔 Created new repository [brandonwie/tailwind-test](https://github.com/brandonwie/tailwind-test)
-3. ⭐ Starred [reactwg/react-native-releases](https://github.com/reactwg/react-native-releases)
-4. ⭐ Starred [reactwg/react-18](https://github.com/reactwg/react-18)
-5. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+1. ⭐ Starred [focus-trap/focus-trap](https://github.com/focus-trap/focus-trap)
+2. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 📔 Created new repository [brandonwie/tailwind-test](https://github.com/brandonwie/tailwind-test)
+4. ⭐ Starred [reactwg/react-native-releases](https://github.com/reactwg/react-native-releases)
+5. ⭐ Starred [reactwg/react-18](https://github.com/reactwg/react-18)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
