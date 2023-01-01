@@ -19,7 +19,7 @@
 - solve [TypeScript challenges](https://github.com/brandonwie/type-challenges)
   - will come up with a new idea if the challenges run out
 - solve [leetcode problems](https://leetcode.com/problemset/all/) || [Daily Coding Problem](https://www.dailycodingproblem.com/)
-- at least on commit per day on GitHub
+- at least one commit per day on GitHub
 
 ### 📅 Weekly
 
