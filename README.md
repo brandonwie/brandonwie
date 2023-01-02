@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 2nd, 2023, 1:31:06 AM
+Last Updated: Monday, January 2nd, 2023, 2:21:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Monday, January 2nd, 2023, 1:31:06 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. 🔱 Forked [brandonwie/type-challenges](https://github.com/brandonwie/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-3. 🔱 Forked [brandonwie/front-end-guide](https://github.com/brandonwie/front-end-guide) from [grab/front-end-guide](https://github.com/grab/front-end-guide)
-4. ⭐ Starred [grab/front-end-guide](https://github.com/grab/front-end-guide)
-5. 📔 Created new repository [brandonwie/next-13-playground](https://github.com/brandonwie/next-13-playground)
+1. ⭐ Starred [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists)
+2. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+4. 🔱 Forked [brandonwie/type-challenges](https://github.com/brandonwie/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+5. 🔱 Forked [brandonwie/front-end-guide](https://github.com/brandonwie/front-end-guide) from [grab/front-end-guide](https://github.com/grab/front-end-guide)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
