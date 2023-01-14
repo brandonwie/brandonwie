@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 2:19:17 AM
+Last Updated: Saturday, January 14th, 2023, 3:04:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Saturday, January 14th, 2023, 2:19:17 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop)
-2. 🔱 Forked [brandonwie/next.js](https://github.com/brandonwie/next.js) from [vercel/next.js](https://github.com/vercel/next.js)
-3. ❗️ Opened issue [#21703](https://github.com/type-challenges/type-challenges/issues/21703) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-4. ⭐ Starred [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian)
-5. ❗️ Opened issue [#21701](https://github.com/type-challenges/type-challenges/issues/21701) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+1. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+2. ⭐ Starred [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop)
+3. 🔱 Forked [brandonwie/next.js](https://github.com/brandonwie/next.js) from [vercel/next.js](https://github.com/vercel/next.js)
+4. ❗️ Opened issue [#21703](https://github.com/type-challenges/type-challenges/issues/21703) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+5. ⭐ Starred [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
