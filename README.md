@@ -21,7 +21,7 @@
 - solve [leetcode problems](https://leetcode.com/problemset/all/) || [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - at least one commit per day on GitHub
 
-### 📅 Weekly
+### 📅 Monthly
 
 - write a blog post on [dev.to](https://dev.to/brandonwie)
 
