@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 23rd, 2023, 6:04:30 AM
+Last Updated: Monday, January 23rd, 2023, 7:03:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Monday, January 23rd, 2023, 6:04:30 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#22443](https://github.com/type-challenges/type-challenges/issues/22443) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-2. ❗️ Opened issue [#22312](https://github.com/type-challenges/type-challenges/issues/22312) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-3. ⭐ Starred [ben-rogerson/twin.examples](https://github.com/ben-rogerson/twin.examples)
-4. ❗️ Opened issue [#22246](https://github.com/type-challenges/type-challenges/issues/22246) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-5. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+1. ⭐ Starred [brandonwie/design-patterns-for-humans](https://github.com/brandonwie/design-patterns-for-humans)
+2. ⭐ Starred [terrastruct/d2](https://github.com/terrastruct/d2)
+3. ❗️ Opened issue [#22443](https://github.com/type-challenges/type-challenges/issues/22443) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+4. ❗️ Opened issue [#22312](https://github.com/type-challenges/type-challenges/issues/22312) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+5. ⭐ Starred [ben-rogerson/twin.examples](https://github.com/ben-rogerson/twin.examples)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
