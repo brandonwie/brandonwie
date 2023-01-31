@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 7:03:59 AM
+Last Updated: Tuesday, January 31st, 2023, 8:04:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Tuesday, January 31st, 2023, 7:03:59 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [brandonwie/practice-dockerize-reactjs](https://github.com/brandonwie/practice-dockerize-reactjs)
-2. ❗️ Opened issue [#22481](https://github.com/type-challenges/type-challenges/issues/22481) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-3. 📔 Created new repository [brandonwie/notes](https://github.com/brandonwie/notes)
-4. 📔 Created new repository [brandonwie/practice-flutter](https://github.com/brandonwie/practice-flutter)
-5. ⭐ Starred [brandonwie/design-patterns-for-humans](https://github.com/brandonwie/design-patterns-for-humans)
+1. ✌️ Released [v1.1.1](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.1) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
+2. ✌️ Released [v1.1.0](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.0) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
+3. ✌️ Released [v1.0.0](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.0.0) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
+4. 📔 Created new repository [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
+5. 📔 Created new repository [brandonwie/practice-dockerize-reactjs](https://github.com/brandonwie/practice-dockerize-reactjs)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
