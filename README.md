@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 9:04:05 AM
+Last Updated: Tuesday, January 31st, 2023, 10:04:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Tuesday, January 31st, 2023, 9:04:05 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✌️ Released [v1.1.7](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.7) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
-2. ✌️ Released [v1.1.6](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.6) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
-3. ✌️ Released [v1.1.5](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.5) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
-4. ✌️ Released [v1.1.4](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.4) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
-5. ✌️ Released [v1.1.3](https://github.com/brandonwie/ad-block-detector/releases/tag/v1.1.3) in [brandonwie/ad-block-detector](https://github.com/brandonwie/ad-block-detector)
+1. ✌️ Released [v1.2.5](https://github.com/brandonwie/adblock-detector/releases/tag/v1.2.5) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
+2. ✌️ Released [v1.2.4](https://github.com/brandonwie/adblock-detector/releases/tag/v1.2.4) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
+3. ✌️ Released [v1.2.3](https://github.com/brandonwie/adblock-detector/releases/tag/v1.2.3) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
+4. ✌️ Released [v1.2.2](https://github.com/brandonwie/adblock-detector/releases/tag/v1.2.2) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
+5. ✌️ Released [v1.2.1](https://github.com/brandonwie/adblock-detector/releases/tag/v1.2.1) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
