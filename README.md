@@ -117,7 +117,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 2nd, 2023, 6:04:31 AM
+Last Updated: Thursday, February 2nd, 2023, 7:03:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Thursday, February 2nd, 2023, 6:04:31 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [brandonwie/zsh-syntax-highlighting](https://github.com/brandonwie/zsh-syntax-highlighting) from [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-2. ✌️ Released [v0.0.4](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.4) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-3. ✌️ Released [v0.0.3](https://github.com/brandonwie/adblock-detector/releases/tag/v0.0.3) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
-4. ✌️ Released [v0.0.2](https://github.com/brandonwie/adblock-detector/releases/tag/v0.0.2) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
-5. ✌️ Released [v0.0.1](https://github.com/brandonwie/adblock-detector-bw/releases/tag/v0.0.1) in [brandonwie/adblock-detector-bw](https://github.com/brandonwie/adblock-detector-bw)
+1. ✌️ Released [v0.0.5](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.5) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+2. 🔱 Forked [brandonwie/zsh-syntax-highlighting](https://github.com/brandonwie/zsh-syntax-highlighting) from [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+3. ✌️ Released [v0.0.4](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.4) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+4. ✌️ Released [v0.0.3](https://github.com/brandonwie/adblock-detector/releases/tag/v0.0.3) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
+5. ✌️ Released [v0.0.2](https://github.com/brandonwie/adblock-detector/releases/tag/v0.0.2) in [brandonwie/adblock-detector](https://github.com/brandonwie/adblock-detector)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
