@@ -117,7 +117,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 5th, 2023, 11:03:54 AM
+Last Updated: Sunday, February 5th, 2023, 12:04:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Sunday, February 5th, 2023, 11:03:54 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✌️ Released [v0.0.8](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.8) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-2. ✌️ Released [v0.0.7](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.7) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-3. 🎉 Merged PR [#2](https://github.com/brandonwie/adblock-detector-v1/pull/2) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-4. 💪 Opened PR [#2](https://github.com/brandonwie/adblock-detector-v1/pull/2) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-5. ✌️ Released [v0.0.6](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.6) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+1. ✌️ Released [v0.0.14](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.14) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+2. ✌️ Released [v0.0.12](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.12) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+3. ✌️ Released [v0.0.10](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.10) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+4. ✌️ Released [v0.0.9](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.9) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+5. ✌️ Released [v0.0.8](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.8) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
