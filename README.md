@@ -117,7 +117,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 10th, 2023, 12:05:26 PM
+Last Updated: Friday, February 10th, 2023, 1:08:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Friday, February 10th, 2023, 12:05:26 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✌️ Released [v0.0.14](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.14) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-2. ✌️ Released [v0.0.12](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.12) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-3. ✌️ Released [v0.0.10](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.10) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-4. ✌️ Released [v0.0.9](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.9) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
-5. ✌️ Released [v0.0.8](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.8) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+1. ⭐ Starred [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow)
+2. ⭐ Starred [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji)
+3. ✌️ Released [v0.0.14](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.14) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+4. ✌️ Released [v0.0.12](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.12) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
+5. ✌️ Released [v0.0.10](https://github.com/brandonwie/adblock-detector-v1/releases/tag/v0.0.10) in [brandonwie/adblock-detector-v1](https://github.com/brandonwie/adblock-detector-v1)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
