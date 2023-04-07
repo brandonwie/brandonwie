@@ -114,7 +114,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 7th, 2023, 9:04:03 AM
+Last Updated: Friday, April 7th, 2023, 10:04:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -123,11 +123,11 @@ Last Updated: Friday, April 7th, 2023, 9:04:03 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [BloopAI/bloop](https://github.com/BloopAI/bloop)
-2. 📔 Created new repository [moviation-public/vonaer-faq](https://github.com/moviation-public/vonaer-faq)
-3. ⭐ Starred [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
-4. ⭐ Starred [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow)
-5. ⭐ Starred [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji)
+1. ⭐ Starred [georgesmith46/bcbp](https://github.com/georgesmith46/bcbp)
+2. ⭐ Starred [BloopAI/bloop](https://github.com/BloopAI/bloop)
+3. 📔 Created new repository [moviation-public/vonaer-faq](https://github.com/moviation-public/vonaer-faq)
+4. ⭐ Starred [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
+5. ⭐ Starred [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
