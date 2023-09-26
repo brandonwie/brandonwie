@@ -117,7 +117,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 26th, 2023, 9:03:52 AM
+Last Updated: Tuesday, September 26th, 2023, 10:03:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Tuesday, September 26th, 2023, 9:03:52 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [depcheck/depcheck](https://github.com/depcheck/depcheck)
-2. ⭐ Starred [tada5hi/smob](https://github.com/tada5hi/smob)
-3. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
-4. ⭐ Starred [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases)
-5. 📔 Created new repository [brandonwie/build_tester](https://github.com/brandonwie/build_tester)
+1. 📔 Created new repository [brandonwie/kr-date-buillder](https://github.com/brandonwie/kr-date-buillder)
+2. ⭐ Starred [depcheck/depcheck](https://github.com/depcheck/depcheck)
+3. ⭐ Starred [tada5hi/smob](https://github.com/tada5hi/smob)
+4. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
+5. ⭐ Starred [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
