@@ -1,16 +1,16 @@
 # <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm Seokhyun Wie - aka Brandon
 
-> 2023 Slogan: Documention, documentation, and documentation!
+> 2023 Slogan: Documentation, documentation, and documentation!
 >
-> Document everything what you do.
+> Document everything that you do.
 
 ## 🧑🏻‍💻 Who Am I
 
 - a life-long learner and a self-taught developer who started the journey as a programmer on May 2, 2019
-- a **front-end web developer** at **MODULABS AIFFEL** working on **LMS**(Learning Management System)
-- love to play PC 🎮 games️ \& ⛹️‍♂️ basketball
-- the first goal is working in Google in 5 years as a SWE
-- spacetravel is my utlimate dream for now
+- a **front-end web developer** at **MOVIATION** working on a **UAM application**(Flutter, Next.js)
+- love to play 🎮 games️ \& 🏃🏻 run
+- the first goal is to work in Google within 3 years as a SWE
+- spacetravel is my ultimate dream for now
 
 ## 🥅 Goals for 2023
 
