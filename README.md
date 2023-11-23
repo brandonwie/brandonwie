@@ -80,16 +80,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-last_dance               27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
