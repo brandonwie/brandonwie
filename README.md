@@ -117,7 +117,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 18th, 2023, 7:04:09 AM
+Last Updated: Monday, December 18th, 2023, 8:04:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Monday, December 18th, 2023, 7:04:09 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
-2. ⭐ Starred [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-3. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 📔 Created new repository [brandonwie/boilterplate-playtag](https://github.com/brandonwie/boilterplate-playtag)
-5. ❗️ Opened issue [#30740](https://github.com/type-challenges/type-challenges/issues/30740) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+1. ❗️ Opened issue [#30](https://github.com/westerlind/alfred-raindrop-search/issues/30) in [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search)
+2. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
+3. ⭐ Starred [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+4. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 📔 Created new repository [brandonwie/boilterplate-playtag](https://github.com/brandonwie/boilterplate-playtag)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
