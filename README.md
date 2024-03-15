@@ -117,7 +117,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 15th, 2024, 9:03:51 AM
+Last Updated: Friday, March 15th, 2024, 10:04:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Friday, March 15th, 2024, 9:03:51 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [brandonwie/study-nestjs-202403](https://github.com/brandonwie/study-nestjs-202403)
-2. 🔱 Forked [brandonwie/ui](https://github.com/brandonwie/ui) from [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ⭐ Starred [KimByeongKou/fastcampus-pay](https://github.com/KimByeongKou/fastcampus-pay)
-4. ⭐ Starred [thombergs/buckpal](https://github.com/thombergs/buckpal)
-5. ⭐ Starred [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+1. ⭐ Starred [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)
+2. 📔 Created new repository [brandonwie/study-nestjs-202403](https://github.com/brandonwie/study-nestjs-202403)
+3. 🔱 Forked [brandonwie/ui](https://github.com/brandonwie/ui) from [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. ⭐ Starred [KimByeongKou/fastcampus-pay](https://github.com/KimByeongKou/fastcampus-pay)
+5. ⭐ Starred [thombergs/buckpal](https://github.com/thombergs/buckpal)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
