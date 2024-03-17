@@ -117,7 +117,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 17th, 2024, 6:04:06 AM
+Last Updated: Sunday, March 17th, 2024, 7:03:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -126,11 +126,11 @@ Last Updated: Sunday, March 17th, 2024, 6:04:06 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)
-2. 📔 Created new repository [brandonwie/study-nestjs-202403](https://github.com/brandonwie/study-nestjs-202403)
-3. 🔱 Forked [brandonwie/ui](https://github.com/brandonwie/ui) from [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. ⭐ Starred [KimByeongKou/fastcampus-pay](https://github.com/KimByeongKou/fastcampus-pay)
-5. ⭐ Starred [thombergs/buckpal](https://github.com/thombergs/buckpal)
+1. 📔 Created new repository [brandonwie/writing-running-fixing-code](https://github.com/brandonwie/writing-running-fixing-code)
+2. ⭐ Starred [kiklopteshki/C-Programming](https://github.com/kiklopteshki/C-Programming)
+3. ⭐ Starred [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)
+4. 📔 Created new repository [brandonwie/study-nestjs-202403](https://github.com/brandonwie/study-nestjs-202403)
+5. 🔱 Forked [brandonwie/ui](https://github.com/brandonwie/ui) from [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
