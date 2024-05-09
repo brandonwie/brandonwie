@@ -2,6 +2,7 @@ name: Get GitHub recent activities
 
 on:
   schedule:
+    # Runs every hour
     - cron: '0 */1 * * *'
   workflow_dispatch:
 
