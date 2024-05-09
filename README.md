@@ -40,16 +40,11 @@
 
 ## ☕️ Things I work with...
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
-<img src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" /><img src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" />
 
 ---
 
