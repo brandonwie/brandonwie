@@ -40,29 +40,23 @@
 
 ## ☕️ Things I work with...
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" /><img src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" /><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+## 📚 Places where I learn things...
 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## ⚡ My Activity
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brandonwie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brandonwie&theme=onedark&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Stats -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ⚡ My Activity
 
 <!--START_SECTION:waka-->
 
