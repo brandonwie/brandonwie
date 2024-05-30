@@ -48,7 +48,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brandonwie&theme=onedark&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brandonwie&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Stats -->
 
