@@ -111,7 +111,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 20th, 2024, 5:03:43 PM
+Last Updated: Saturday, July 20th, 2024, 6:04:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -120,11 +120,11 @@ Last Updated: Saturday, July 20th, 2024, 5:03:43 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 📔 Created new repository [brandonwie/car-price](https://github.com/brandonwie/car-price)
-3. ⭐ Starred [tembo-io/pgmq](https://github.com/tembo-io/pgmq)
-4. ⭐ Starred [sigoden/dufs](https://github.com/sigoden/dufs)
-5. 📔 Created new repository [brandonwie/writing-running-fixing-code](https://github.com/brandonwie/writing-running-fixing-code)
+1. ⭐ Starred [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+2. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 📔 Created new repository [brandonwie/car-price](https://github.com/brandonwie/car-price)
+4. ⭐ Starred [tembo-io/pgmq](https://github.com/tembo-io/pgmq)
+5. ⭐ Starred [sigoden/dufs](https://github.com/sigoden/dufs)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
