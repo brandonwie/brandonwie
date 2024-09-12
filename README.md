@@ -111,7 +111,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 12th, 2024, 11:04:04 AM
+Last Updated: Thursday, September 12th, 2024, 12:06:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -120,11 +120,11 @@ Last Updated: Thursday, September 12th, 2024, 11:04:04 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
-2. ⭐ Starred [TahaSh/swapy](https://github.com/TahaSh/swapy)
-3. ⭐ Starred [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi)
-4. ⭐ Starred [vuejs/vue](https://github.com/vuejs/vue)
-5. 📔 Created new repository [brandonwie/frontend-framworks](https://github.com/brandonwie/frontend-framworks)
+1. ⭐ Starred [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)
+2. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
+3. ⭐ Starred [TahaSh/swapy](https://github.com/TahaSh/swapy)
+4. ⭐ Starred [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi)
+5. ⭐ Starred [vuejs/vue](https://github.com/vuejs/vue)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
