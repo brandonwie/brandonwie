@@ -111,7 +111,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 19th, 2024, 3:06:05 AM
+Last Updated: Thursday, September 19th, 2024, 4:04:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -120,11 +120,11 @@ Last Updated: Thursday, September 19th, 2024, 3:06:05 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)
-2. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
-3. ⭐ Starred [TahaSh/swapy](https://github.com/TahaSh/swapy)
-4. ⭐ Starred [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi)
-5. ⭐ Starred [vuejs/vue](https://github.com/vuejs/vue)
+1. ⭐ Starred [json-path/JsonPath](https://github.com/json-path/JsonPath)
+2. ⭐ Starred [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)
+3. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
+4. ⭐ Starred [TahaSh/swapy](https://github.com/TahaSh/swapy)
+5. ⭐ Starred [UbuntuAsahi/ubuntu-asahi](https://github.com/UbuntuAsahi/ubuntu-asahi)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
