@@ -7,10 +7,10 @@
 ## 🧑🏻‍💻 Who Am I
 
 - **A father and a loving husband**
-- **A life-long learner** and a self-taught developer who started the journey as a programmer on May 2, 2019
+- **A life-long learner** and a self-taught developer who started the journey on May 2, 2019
 - **A full-stack developer** at [**PlayTag**](https://playtag.ai/) working on the **Storyline**, BAaaS (Behavior Analytics as a Service) application.
-- Love to play 🎮 games
-- One of my big goals is to work in Google within 5 years as a SWE
+- Love playing 🎮 games
+- One of my big goals is to work in Google as a SWE
 - Space travel is my ultimate dream for now
 
 ## 🥅 Goals for 2024
