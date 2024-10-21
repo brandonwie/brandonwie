@@ -2,12 +2,13 @@
 
 > 2024 Slogan: Documentation!
 >
-> Finding a more efficient way to document
+> Finding a more efficient way to document things
 
 ## 🧑🏻‍💻 Who Am I
 
-- A life-long learner and a self-taught developer who started the journey as a programmer on May 2, 2019
-- A **full-stack developer** at [**PlayTag**](https://playtag.ai/) working on the **Storyline**, BAaaS (Behavior Analytics as a Service) application.
+- **A father and a loving husband**
+- **A life-long learner** and a self-taught developer who started the journey as a programmer on May 2, 2019
+- **A full-stack developer** at [**PlayTag**](https://playtag.ai/) working on the **Storyline**, BAaaS (Behavior Analytics as a Service) application.
 - Love to play 🎮 games
 - One of my big goals is to work in Google within 5 years as a SWE
 - Space travel is my ultimate dream for now
@@ -34,11 +35,11 @@
   - Cloud Practitioner
   - Developer Associate
 
-- Learn C++, and Linux
+- Deep dive Java and Kotlin (our new project is build with Kotlin and Spring Boot)
 
 ---
 
-## ☕️ Things I work with...
+## ☕️ Things I work with daily...
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -50,7 +51,7 @@
 
 ## 📚 Places where I learn things...
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## ⚡ My Activity
 
