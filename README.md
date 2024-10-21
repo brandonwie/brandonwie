@@ -35,7 +35,7 @@
   - Cloud Practitioner
   - Developer Associate
 
-- Deep dive Java and Kotlin (our new project is build with Kotlin and Spring Boot)
+- Deep dive Java and Kotlin (our new project is built with Kotlin and Spring Boot)
 
 ---
 
