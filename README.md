@@ -114,7 +114,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 15th, 2024, 6:05:34 PM
+Last Updated: Friday, November 15th, 2024, 7:03:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -123,11 +123,11 @@ Last Updated: Friday, November 15th, 2024, 6:05:34 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [brandonwie/spring-framework-essentials](https://github.com/brandonwie/spring-framework-essentials)
-2. ⭐ Starred [json-path/JsonPath](https://github.com/json-path/JsonPath)
-3. ⭐ Starred [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)
-4. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
-5. ⭐ Starred [TahaSh/swapy](https://github.com/TahaSh/swapy)
+1. ⭐ Starred [gurugio/quick-guide-rust-programming](https://github.com/gurugio/quick-guide-rust-programming)
+2. 🔱 Forked [brandonwie/quick-guide-rust-programming](https://github.com/brandonwie/quick-guide-rust-programming) from [gurugio/quick-guide-rust-programming](https://github.com/gurugio/quick-guide-rust-programming)
+3. 📔 Created new repository [brandonwie/spring-framework-essentials](https://github.com/brandonwie/spring-framework-essentials)
+4. ⭐ Starred [json-path/JsonPath](https://github.com/json-path/JsonPath)
+5. ⭐ Starred [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
