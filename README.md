@@ -78,7 +78,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 17th, 2025, 12:21:39 AM
+Last Updated: Monday, March 17th, 2025, 1:32:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -87,9 +87,9 @@ Last Updated: Monday, March 17th, 2025, 12:21:39 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)
-2. ⭐ Starred [dvershinin/gixy](https://github.com/dvershinin/gixy)
-3. ⭐ Starred [rootkit1337tv/NaowhUI_11.0.x](https://github.com/rootkit1337tv/NaowhUI_11.0.x)
+1. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+2. ⭐ Starred [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)
+3. ⭐ Starred [dvershinin/gixy](https://github.com/dvershinin/gixy)
 4. ⭐ Starred [kodewdle/IconPacks](https://github.com/kodewdle/IconPacks)
 5. ⭐ Starred [gurugio/quick-guide-rust-programming](https://github.com/gurugio/quick-guide-rust-programming)
 <!--RECENT_ACTIVITY:end-->
