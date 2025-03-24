@@ -1,6 +1,6 @@
 # <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm Seokhyun Wie - aka Brandon
 
-> 2024 Slogan: Documentation!
+> 2025 Slogan: Find time to study!
 >
 > Finding a more efficient way to document things
 
@@ -8,12 +8,12 @@
 
 - **A father and a loving husband**
 - **A life-long learner** and a self-taught developer who started the journey on May 2, 2019
-- **A full-stack developer** at [**PlayTag**](https://playtag.ai/) working on the **Storyline**, BAaaS (Behavior Analytics as a Service) application.
+- **A full-stack developer** at [**Moba**](https://moba.works) working on the to-do calendar app.
 - Love playing 🎮 games
-- One of my big goals is to work in Google as a SWE
-- Space travel is my ultimate dream for now
+- One of my mid-term goals is to become a SWE at Google
+- Space travel is my ultimate dream (for now)
 
-## 🥅 Goals for 2024
+## 🥅 Goals for 2025
 
 ### 📅 Daily
 
@@ -62,23 +62,24 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I Mostly Code in JavaScript** 
+
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
-TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   30.53% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84%
+TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   30.53%
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58%
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 ```
 
-
-
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Monday, March 24th, 2025, 4:06:07 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
