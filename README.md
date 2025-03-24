@@ -62,17 +62,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84%
-TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   30.53%
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58%
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
+JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
+TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   30.53% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 
