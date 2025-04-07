@@ -78,7 +78,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 7th, 2025, 7:05:31 AM
+Last Updated: Monday, April 7th, 2025, 8:06:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -87,11 +87,11 @@ Last Updated: Monday, April 7th, 2025, 7:05:31 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [brandonwie/BlockNote](https://github.com/brandonwie/BlockNote) from [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-2. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
-3. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
-4. 🎉 Merged PR [#5](https://github.com/brandonwie/test_slack_action/pull/5) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
-5. 💪 Opened PR [#5](https://github.com/brandonwie/test_slack_action/pull/5) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
+1. 💪 Opened PR [#1589](https://github.com/TypeCellOS/BlockNote/pull/1589) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+2. 🔱 Forked [brandonwie/BlockNote](https://github.com/brandonwie/BlockNote) from [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+3. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
+4. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
+5. 🎉 Merged PR [#5](https://github.com/brandonwie/test_slack_action/pull/5) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 <!--RECENT_ACTIVITY:end-->
 
 [youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
