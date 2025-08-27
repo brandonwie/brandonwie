@@ -78,7 +78,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 27th, 2025, 8:06:15 AM
+Last Updated: Wednesday, August 27th, 2025, 9:05:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -87,8 +87,8 @@ Last Updated: Wednesday, August 27th, 2025, 8:06:15 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
-2. ⭐ Starred [getAsterisk/claudia](https://github.com/getAsterisk/claudia)
+1. ⭐ Starred [bgreenwell/lstr](https://github.com/bgreenwell/lstr)
+2. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 3. 🔱 Forked [brandonwie/BlockNote](https://github.com/brandonwie/BlockNote) from [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
 4. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
