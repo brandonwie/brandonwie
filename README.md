@@ -78,7 +78,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 8th, 2025, 8:05:16 PM
+Last Updated: Monday, September 8th, 2025, 9:04:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -87,8 +87,8 @@ Last Updated: Monday, September 8th, 2025, 8:05:16 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster)
-2. ⭐ Starred [bgreenwell/lstr](https://github.com/bgreenwell/lstr)
+1. ⭐ Starred [bgreenwell/lstr](https://github.com/bgreenwell/lstr)
+2. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 3. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 4. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
