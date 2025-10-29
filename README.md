@@ -8,8 +8,7 @@
 
 - **A father and a loving husband**
 - **A life-long learner** and a self-taught developer who started the journey on May 2, 2019
-- **A full-stack developer** at [**Moba**](https://moba.works) working on the to-do calendar app.
-- Love playing 🎮 games
+- **A backend lead** at [**Moba**](https://moba.works) building [**the Arch Calendar**](https://archcalendar.com), a to-do calendar app
 - One of my mid-term goals is to become a SWE at Google
 - Space travel is my ultimate dream (for now)
 
@@ -25,31 +24,30 @@
 
 ### 📅 Quarterly / Yearly
 
-- Complete [Introductory C Programming Specialization
-  ](https://www.coursera.org/specializations/c-programming)
-- Learn Computer Networking
+- Complete [Introductory C Programming Specialization](https://www.coursera.org/specializations/c-programming) ✅
+- Learn Computer Networking 🏃‍♂️‍➡️
 - Follow my [data structure & algorithm guide](https://www.notion.so/brandonwie/How-to-Get-a-Software-Engineer-Job-at-Google-and-Other-Top-Tech-Companies-fc46fa68254449c49472c84584905409)
 
 - Get two AWS certificates
 
-  - Cloud Practitioner
-  - Developer Associate
+  - Cloud Practitioner ✅
+  - AI Practitioner 🏃‍♂️‍➡️
 
-- Deep dive Java and Kotlin (our new project is built with Kotlin and Spring Boot)
+- Build AI agent application on my own
 
 ---
 
-## ☕️ Things I work with daily...
+## ☕️ Things I work with daily
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📚 Places where I learn things...
+## 📚 Places where I learn things
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
@@ -61,19 +59,26 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- github-profile-3d-contrib -->
+<p align="center" >
+ <picture>
+   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/night.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/day.svg" />
+   <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/day.svg" />
+ </picture>
+</p>
+
 <!--START_SECTION:waka-->
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84%
+TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58%
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
 
@@ -94,9 +99,7 @@ Last Updated: Wednesday, October 29th, 2025, 5:05:40 AM
 5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 <!--RECENT_ACTIVITY:end-->
 
-[youtube]: https://www.youtube.com/channel/UC7tk3UT7nn3cZNC2KBdb-4Q
 [linkedin]: https://linkedin.com/in/brandonwie
-[twitter]: https://twitter.com/brandonwie
 
 ---
 
