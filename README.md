@@ -71,16 +71,18 @@
 </p>
 
 <!--START_SECTION:waka-->
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84%
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58%
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
+JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
+TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 
