@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 17th, 2025, 8:07:42 AM
+Last Updated: Wednesday, December 17th, 2025, 9:08:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,9 +96,9 @@ Last Updated: Wednesday, December 17th, 2025, 8:07:42 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)
-2. ⭐ Starred [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)
-3. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
+1. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+2. ⭐ Starred [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)
+3. ⭐ Starred [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)
 4. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 <!--RECENT_ACTIVITY:end-->
