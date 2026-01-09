@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 9th, 2026, 3:06:15 PM
+Last Updated: Friday, January 9th, 2026, 4:06:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,9 +96,9 @@ Last Updated: Friday, January 9th, 2026, 3:06:15 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-2. ⭐ Starred [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)
-3. ⭐ Starred [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)
+1. ⭐ Starred [google/googletest](https://github.com/google/googletest)
+2. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+3. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 4. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
 <!--RECENT_ACTIVITY:end-->
