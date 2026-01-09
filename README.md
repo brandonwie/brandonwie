@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 9th, 2026, 4:06:19 PM
+Last Updated: Friday, January 9th, 2026, 5:07:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,11 +96,11 @@ Last Updated: Friday, January 9th, 2026, 4:06:19 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [google/googletest](https://github.com/google/googletest)
-2. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-3. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-4. 🎉 Merged PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
-5. 💪 Opened PR [#6](https://github.com/brandonwie/test_slack_action/pull/6) in [brandonwie/test_slack_action](https://github.com/brandonwie/test_slack_action)
+1. ⭐ Starred [golang/go](https://github.com/golang/go)
+2. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+3. ⭐ Starred [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
+4. ⭐ Starred [google/googletest](https://github.com/google/googletest)
+5. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
