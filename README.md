@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 14th, 2026, 1:34:22 AM
+Last Updated: Wednesday, January 14th, 2026, 2:46:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,11 +96,11 @@ Last Updated: Wednesday, January 14th, 2026, 1:34:22 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [golang/go](https://github.com/golang/go)
-2. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
-3. ⭐ Starred [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-4. ⭐ Starred [google/googletest](https://github.com/google/googletest)
-5. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+1. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+2. ⭐ Starred [golang/go](https://github.com/golang/go)
+3. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+4. ⭐ Starred [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
+5. ⭐ Starred [google/googletest](https://github.com/google/googletest)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
