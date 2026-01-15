@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 15th, 2026, 12:23:05 AM
+Last Updated: Thursday, January 15th, 2026, 1:34:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,11 +96,11 @@ Last Updated: Thursday, January 15th, 2026, 12:23:05 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
-2. ⭐ Starred [golang/go](https://github.com/golang/go)
-3. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
-4. ⭐ Starred [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-5. ⭐ Starred [google/googletest](https://github.com/google/googletest)
+1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+2. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+3. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+4. ⭐ Starred [golang/go](https://github.com/golang/go)
+5. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
