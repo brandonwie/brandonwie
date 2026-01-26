@@ -74,8 +74,8 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
+JavaScript               34 repos            █████████░░░░░░░░░░░░░░░░   35.79% 
+TypeScript               31 repos            ████████░░░░░░░░░░░░░░░░░   32.63% 
 HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
