@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 9th, 2026, 5:33:33 AM
+Last Updated: Monday, February 9th, 2026, 6:28:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,11 +96,11 @@ Last Updated: Monday, February 9th, 2026, 5:33:33 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-2. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-3. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
-4. ⭐ Starred [golang/go](https://github.com/golang/go)
-5. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+1. 🔱 Forked [brandonwie/claude-code-tips](https://github.com/brandonwie/claude-code-tips) from [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+2. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+3. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+4. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+5. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
