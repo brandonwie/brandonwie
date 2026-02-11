@@ -87,7 +87,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 11th, 2026, 12:35:38 AM
+Last Updated: Wednesday, February 11th, 2026, 1:37:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -96,11 +96,11 @@ Last Updated: Wednesday, February 11th, 2026, 12:35:38 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [brandonwie/claude-code-tips](https://github.com/brandonwie/claude-code-tips) from [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
-2. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
-3. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-4. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-5. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+1. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+2. 🔱 Forked [brandonwie/claude-code-tips](https://github.com/brandonwie/claude-code-tips) from [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+3. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+4. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+5. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
