@@ -18,6 +18,8 @@
 
 **Certifications** — AWS AI Practitioner, Developer Associate, Solutions Architect Associate, Claude Certified Architect (Foundations)
 
+**Cloud** — Google Cloud Study Jam 2026 (16 skill badges / 17 courses completed)
+
 **Professional** — Ship AI features at Moba (RAG, semantic search)
 
 ---
