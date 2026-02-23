@@ -103,7 +103,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 23rd, 2026, 12:16:58 PM
+Last Updated: Monday, February 23rd, 2026, 1:31:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -112,11 +112,11 @@ Last Updated: Monday, February 23rd, 2026, 12:16:58 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
-2. 🔱 Forked [brandonwie/claude-code-tips](https://github.com/brandonwie/claude-code-tips) from [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
-3. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
-4. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-5. ⭐ Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+1. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
+2. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
+3. 🔱 Forked [brandonwie/zvec](https://github.com/brandonwie/zvec) from [alibaba/zvec](https://github.com/alibaba/zvec)
+4. ⭐ Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+5. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
