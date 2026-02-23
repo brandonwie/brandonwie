@@ -75,7 +75,7 @@
 
 <!-- GitHub Stats -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars&custom_title=Brandon's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- github-profile-3d-contrib -->
 <p align="center" >
