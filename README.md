@@ -71,7 +71,7 @@
 
 ## ⚡ My Activity
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=brandonwie&theme=aura&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=brandonwie&theme=aura&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Stats -->
 
