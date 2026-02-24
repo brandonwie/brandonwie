@@ -75,7 +75,7 @@
 
 <!-- GitHub Stats -->
 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonwie&show_icons=true&theme=midnight-purple&hide=stars&custom_title=Brandon%27s%20GitHub%20Stats&include_all_commits=true&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- github-profile-3d-contrib -->
 <p align="center" >
