@@ -103,7 +103,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 25th, 2026, 6:27:25 AM
+Last Updated: Wednesday, February 25th, 2026, 7:24:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -112,11 +112,11 @@ Last Updated: Wednesday, February 25th, 2026, 6:27:25 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
-2. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
-3. 🔱 Forked [brandonwie/zvec](https://github.com/brandonwie/zvec) from [alibaba/zvec](https://github.com/alibaba/zvec)
-4. ⭐ Starred [alibaba/zvec](https://github.com/alibaba/zvec)
-5. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+1. ⭐ Starred [milooy/remote-or-flexible-work-company-in-korea](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
+2. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
+3. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
+4. 🔱 Forked [brandonwie/zvec](https://github.com/brandonwie/zvec) from [alibaba/zvec](https://github.com/alibaba/zvec)
+5. ⭐ Starred [alibaba/zvec](https://github.com/alibaba/zvec)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
