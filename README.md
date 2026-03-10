@@ -103,7 +103,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 10th, 2026, 3:21:18 PM
+Last Updated: Tuesday, March 10th, 2026, 4:24:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -112,11 +112,11 @@ Last Updated: Tuesday, March 10th, 2026, 3:21:18 PM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [milooy/remote-or-flexible-work-company-in-korea](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
-2. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
-3. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
-4. 🔱 Forked [brandonwie/zvec](https://github.com/brandonwie/zvec) from [alibaba/zvec](https://github.com/alibaba/zvec)
-5. ⭐ Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+1. 🔱 Forked [brandonwie/everything-claude-code](https://github.com/brandonwie/everything-claude-code) from [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+2. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+3. ⭐ Starred [milooy/remote-or-flexible-work-company-in-korea](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
+4. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
+5. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
