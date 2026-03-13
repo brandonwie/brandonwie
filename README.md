@@ -103,7 +103,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 13th, 2026, 9:15:58 AM
+Last Updated: Friday, March 13th, 2026, 10:12:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -112,11 +112,11 @@ Last Updated: Friday, March 13th, 2026, 9:15:58 AM
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
-2. 🔱 Forked [brandonwie/everything-claude-code](https://github.com/brandonwie/everything-claude-code) from [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-3. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-4. ⭐ Starred [milooy/remote-or-flexible-work-company-in-korea](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
-5. 🔱 Forked [brandonwie/airllm](https://github.com/brandonwie/airllm) from [lyogavin/airllm](https://github.com/lyogavin/airllm)
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+2. ⭐ Starred [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
+3. 🔱 Forked [brandonwie/everything-claude-code](https://github.com/brandonwie/everything-claude-code) from [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+4. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+5. ⭐ Starred [milooy/remote-or-flexible-work-company-in-korea](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/brandonwie
