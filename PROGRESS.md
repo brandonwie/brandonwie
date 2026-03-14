@@ -14,6 +14,7 @@
 - Added `paths-ignore` to skip 3D rebuild on markdown-only pushes
 - Replaced external Hi.gif CDN image with Unicode 👋 emoji
 - Unified LinkedIn badge to shields.io `for-the-badge` style
+- Added completion dates to 3 Coursera certifications (sourced from 3B credentials index)
 
 ### 2026-03-15
 
