@@ -1,4 +1,4 @@
-# <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm Seokhyun Wie - aka Brandon
+# 👋 Hi there, I'm Seokhyun Wie - aka Brandon
 
 > Stack the credentials, build the future.
 
@@ -10,7 +10,7 @@
 - Pursuing [**Georgia Tech OMSCS (AI Track)**](https://omscs.gatech.edu/) for Spring 2027
 - Space travel is my ultimate dream
 
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" />][linkedin] [<img src="https://img.shields.io/badge/Blog-brandonwie.dev-2ea44f?style=for-the-badge" />][blog]
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img src="https://img.shields.io/badge/Blog-brandonwie.dev-2ea44f?style=for-the-badge" />][blog]
 
 ## 🥅 Goals for 2026
 

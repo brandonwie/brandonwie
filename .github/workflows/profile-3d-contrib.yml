@@ -6,13 +6,16 @@ on:
     - cron: "0 0 * * *"
 
   # allows to manually run the job at any time
-  # workflow_dispatch:
+  workflow_dispatch:
 
   # run on every push on the main branch
   # don't forget to change if you're using 'master' branch
   push:
     branches:
       - main
+    paths-ignore:
+      - '*.md'
+      - 'conf/**'
 
 jobs:
   build:
@@ -20,7 +23,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
