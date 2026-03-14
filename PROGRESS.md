@@ -7,6 +7,14 @@
 
 ## Session Log
 
+### 2026-03-15 (session 2)
+
+- Pinned `github-profile-3d-contrib` action to v0.9.2 (was `@latest` — supply chain risk)
+- Enabled `workflow_dispatch` for manual 3D chart triggers
+- Added `paths-ignore` to skip 3D rebuild on markdown-only pushes
+- Replaced external Hi.gif CDN image with Unicode 👋 emoji
+- Unified LinkedIn badge to shields.io `for-the-badge` style
+
 ### 2026-03-15
 
 - Added OSS contributions section (2 merged PRs, 6 issue reports)
