@@ -40,9 +40,9 @@
 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** (Sep 2025)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Introductory C Programming Specialization** — Duke University (Dec 2024)
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Object-Oriented Programming in Java Specialization** — Duke University
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Nand to Tetris Part I & II** — Hebrew University of Jerusalem
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Machine Learning** — Stanford University (Andrew Ng)
+- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Nand to Tetris Part I & II** — Hebrew University of Jerusalem (Jan–Feb 2021)
+- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Machine Learning** — Stanford University, Andrew Ng (Dec 2020)
+- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Object-Oriented Programming in Java Specialization** — Duke University (Nov 2020)
 
 **In Progress:**
 
