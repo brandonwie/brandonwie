@@ -14,9 +14,9 @@
 
 ## 🥅 Goals for 2026
 
-**Academic** — Georgia Tech OMSCS Prerequisites via edX (DSA, Linear Algebra, Probability), MIT Discrete Math, TOEFL iBT 90+, apply to OMSCS (Spring 2027)
+**Academic** — Georgia Tech OMSCS Prerequisites via edX (DSA, Linear Algebra, Probability, Networking), MIT Discrete Math, TOEFL iBT 90+, apply to OMSCS (Spring 2027)
 
-**Certifications** — AWS AI Practitioner, Developer Associate, Solutions Architect Associate
+**Certifications** — AWS AI Practitioner, Developer Associate, Solutions Architect Associate, Claude Certified Architect (Foundations)
 
 **Professional** — Ship AI features at Moba (RAG, semantic search)
 
@@ -47,6 +47,7 @@
 **In Progress:**
 
 - ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Georgia Tech OMSCS Prerequisites** (DSA, Linear Algebra, Probability)
+- ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=flat-square&logo=anthropic&logoColor=white) **Claude Certified Architect — Foundations**
 
 ---
 
