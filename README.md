@@ -46,8 +46,11 @@
 
 **In Progress:**
 
-- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Georgia Tech OMSCS Prerequisites** (DSA, Linear Algebra, Probability)
-- ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=flat-square&logo=anthropic&logoColor=white) **Claude Certified Architect — Foundations**
+- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Georgia Tech OMSCS Prerequisites** (DSA, Linear Algebra, Probability, Networking)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS AI Practitioner**
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Developer Associate**
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Solutions Architect Associate**
+- ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=flat-square&logo=anthropic&logoColor=white) **Claude Certified Architect (Foundations)**
 
 ---
 
