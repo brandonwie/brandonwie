@@ -7,6 +7,15 @@
 
 ## Session Log
 
+### 2026-04-25
+
+- Replaced the 3D contribution chart workflow with `Platane/snk@v3.5.0`
+- Swapped README contribution media from `output-3d-contrib` day/night SVGs to
+  `output-snake` light/dark snake SVGs
+- Removed the unused `conf/github-profile-3d-contrib.json` config
+- Rebasing was required before push because GitHub stats automation had advanced
+  `origin/main`
+
 ### 2026-03-15 (session 2)
 
 - Pinned `github-profile-3d-contrib` action to v0.9.2 (was `@latest` — supply chain risk)
