@@ -82,12 +82,12 @@ I actively contribute fixes to tools I use — when I find a bug, I diagnose it 
 
 [![Brandon's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- github-profile-3d-contrib -->
+<!-- github-contribution-snake -->
 <p align="center">
  <picture>
-   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/night.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/day.svg" />
-   <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/brandonwie/brandonwie/output-3d-contrib/day.svg" />
+   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-snake/github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandonwie/brandonwie/output-snake/github-contribution-grid-snake.svg" />
+   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/brandonwie/brandonwie/output-snake/github-contribution-grid-snake.svg" />
  </picture>
 </p>
 
