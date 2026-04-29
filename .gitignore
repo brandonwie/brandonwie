@@ -1,6 +1,5 @@
 /.DS_Store
 docs
-CLAUDE.md
 .claude/.serena/cache/
 graphify-out/
 .code-review-graph/
