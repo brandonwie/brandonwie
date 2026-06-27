@@ -64,6 +64,7 @@ I actively contribute fixes to tools I use — when I find a bug, I diagnose it 
 
 | Project | PR | What |
 | ------- | -- | ---- |
+| [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | [#70](https://github.com/alexgreensh/token-optimizer/pull/70) | Fixed setup detection for symlinked configs + accurate state reporting |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [#203](https://github.com/jarrodwatts/claude-hud/pull/203) | Fixed zero-byte lock file causing permanent HUD failure |
 | [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) | [#1589](https://github.com/TypeCellOS/BlockNote/pull/1589) | Docs fix: corrected Styles type definition |
 
@@ -71,6 +72,7 @@ I actively contribute fixes to tools I use — when I find a bug, I diagnose it 
 
 | Project | Issue | What |
 | ------- | ----- | ---- |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | [#781](https://github.com/mksglu/context-mode/issues/781) | Plain-text chunker missing byte cap — large output bloats FTS5 index (resolved) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | [#166927](https://github.com/microsoft/vscode/issues/166927) | InlayHints cursor horizontal movement inconsistency |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | [#140195](https://github.com/microsoft/vscode/issues/140195) | InlayHints blocking cursor vertical movement |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [#202](https://github.com/jarrodwatts/claude-hud/issues/202) | 0-byte lock causes permanent busy state |
