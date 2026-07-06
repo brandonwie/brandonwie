@@ -64,6 +64,7 @@ I actively contribute fixes to tools I use — when I find a bug, I diagnose it 
 
 | Project | PR | What |
 | ------- | -- | ---- |
+| [Q00/ouroboros](https://github.com/Q00/ouroboros) | [#1561](https://github.com/Q00/ouroboros/pull/1561) | Honored the dead worktree_cleanup policy + added an `ooo cleanup` CLI to reclaim leaked auto-session worktrees, branches, and locks |
 | [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | [#70](https://github.com/alexgreensh/token-optimizer/pull/70) | Fixed setup detection for symlinked configs + accurate state reporting |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [#203](https://github.com/jarrodwatts/claude-hud/pull/203) | Fixed zero-byte lock file causing permanent HUD failure |
 | [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) | [#1589](https://github.com/TypeCellOS/BlockNote/pull/1589) | Docs fix: corrected Styles type definition |
@@ -73,11 +74,14 @@ I actively contribute fixes to tools I use — when I find a bug, I diagnose it 
 | Project | Issue | What |
 | ------- | ----- | ---- |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | [#781](https://github.com/mksglu/context-mode/issues/781) | Plain-text chunker missing byte cap — large output bloats FTS5 index (resolved) |
+| [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | [#34](https://github.com/alexgreensh/token-optimizer/issues/34) | Dashboard v5 toggle read config from a hardcoded legacy path (resolved) |
+| [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | [#71](https://github.com/alexgreensh/token-optimizer/issues/71) | Symlinked config/hooks block Codex install + memory overcount (resolved) |
+| [Q00/ouroboros](https://github.com/Q00/ouroboros) | [#1560](https://github.com/Q00/ouroboros/issues/1560) | Dead worktree_cleanup field leaks auto-session worktrees, branches, and locks (resolved) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | [#166927](https://github.com/microsoft/vscode/issues/166927) | InlayHints cursor horizontal movement inconsistency |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | [#140195](https://github.com/microsoft/vscode/issues/140195) | InlayHints blocking cursor vertical movement |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [#202](https://github.com/jarrodwatts/claude-hud/issues/202) | 0-byte lock causes permanent busy state |
-| [sfsam/Itsycal](https://github.com/sfsam/Itsycal) | [#164](https://github.com/sfsam/Itsycal/issues/164) | Calendar not appearing in Privacy preferences |
-| [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) | [#30](https://github.com/westerlind/alfred-raindrop-search/issues/30) | Permission 403 on prompted guide |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | [#140195](https://github.com/microsoft/vscode/issues/140195) | InlayHints blocking cursor vertical movement (resolved) |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [#202](https://github.com/jarrodwatts/claude-hud/issues/202) | 0-byte lock causes permanent busy state (resolved) |
+| [sfsam/Itsycal](https://github.com/sfsam/Itsycal) | [#164](https://github.com/sfsam/Itsycal/issues/164) | Calendar not appearing in Privacy preferences (resolved) |
+| [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) | [#30](https://github.com/westerlind/alfred-raindrop-search/issues/30) | Permission 403 on prompted guide (resolved) |
 | [iamport/iamport-manual](https://github.com/iamport/iamport-manual) | [#58](https://github.com/iamport/iamport-manual/issues/58) | Mobile auth birth value error |
 
 ---
