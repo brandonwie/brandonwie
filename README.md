@@ -14,7 +14,7 @@
 
 ## 🥅 Goals for 2026
 
-**Academic** — Georgia Tech OMSCS Prerequisites via edX (DSA, Linear Algebra, Probability, Networking), MIT Discrete Math, TOEFL iBT 90+, apply to OMSCS (Spring 2027)
+**Academic** — Georgia Tech OMSCS Prerequisites via edX (DSA ✅ Professional Certificate Jul 2026; Probability, Networking next), MIT Discrete Math, TOEFL iBT 90+, apply to OMSCS (Spring 2027)
 
 **Certifications** — AWS AI Practitioner, Developer Associate, Solutions Architect Associate, Claude Certified Architect (Foundations)
 
@@ -40,6 +40,7 @@
 
 **Completed:**
 
+- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Data Structures & Algorithms Professional Certificate** — Georgia Tech (Jul 2026, 4 courses)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** (Sep 2025)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Introductory C Programming Specialization** — Duke University (Dec 2024)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Nand to Tetris Part I & II** — Hebrew University of Jerusalem (Jan–Feb 2021)
@@ -48,7 +49,7 @@
 
 **In Progress:**
 
-- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Georgia Tech OMSCS Prerequisites** (DSA, Linear Algebra, Probability, Networking)
+- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Georgia Tech OMSCS Prerequisites** (Probability, Networking — DSA complete ✅)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS AI Practitioner**
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Developer Associate**
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Solutions Architect Associate**
