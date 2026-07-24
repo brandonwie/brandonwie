@@ -4,8 +4,15 @@
 
 - [x] Project initialized with 3B integration
 - [x] GitHub profile README elegance overhaul
+- [x] AWS Certified AI Practitioner exam passed (2026-07-24; credential pending)
 
 ## Session Log
+
+### 2026-07-24
+
+- Moved AWS AI Practitioner from active certification goals to completed.
+- Recorded the exam pass without inventing a credential URL.
+- Left a credential-pending marker for the follow-up update.
 
 ### 2026-04-25
 
