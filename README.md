@@ -41,7 +41,7 @@
 **Completed:**
 
 - ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat-square&logo=edX&logoColor=white) **Data Structures & Algorithms Professional Certificate** — Georgia Tech (Jul 2026, 4 courses)
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified AI Practitioner** (Exam passed Jul 2026; credential pending)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified AI Practitioner** (Jul 2026)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** (Sep 2025)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Introductory C Programming Specialization** — Duke University (Dec 2024)
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white) **Nand to Tetris Part I & II** — Hebrew University of Jerusalem (Jan–Feb 2021)
