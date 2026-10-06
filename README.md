@@ -6,7 +6,9 @@
 
 - **A father and a loving husband**
 - **A life-long learner** and a self-taught developer who started the journey on May 2, 2019
-- **A product engineer (co-lead backend)** at [**Moba**](https://moba.works) building [**the Arch Calendar**](https://archcalendar.com), processing 6M+ calendar events across Google & Apple Calendar
+- **Full-stack AI Engineer** at **Playtag**
+- Formerly Software Engineer (Lead Backend) at [**MOBA**](https://moba.works). [**Arch Calendar**](https://archcalendar.com) calendar sync handled **8M+ events for 8k+ users** across Google and Apple Calendar
+- Pursuing a **Bachelor of Engineering in Artificial Intelligence** at **Korea National Open University**, in progress (junior transfer, August 2026 to August 2028 expected)
 - Pursuing [**Georgia Tech OMSCS (AI Track)**](https://omscs.gatech.edu/) for Spring 2027
 - Space travel is my ultimate dream
 
@@ -20,7 +22,7 @@
 
 **Cloud** — Google Cloud Study Jam 2026 (16 skill badges / 17 courses completed)
 
-**Professional** — Ship AI features at Moba (RAG, semantic search)
+**Professional** — Ship AI features (RAG, semantic search)
 
 ---
 
